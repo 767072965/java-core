@@ -1,4 +1,4 @@
-package com.lxz.simple.util;
+package com.lxz.core.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

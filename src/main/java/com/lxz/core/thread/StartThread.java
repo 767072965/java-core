@@ -1,4 +1,4 @@
-package com.lxz.simple.thread;
+package com.lxz.core.thread;
 
 /**
  * 创建线程方式一

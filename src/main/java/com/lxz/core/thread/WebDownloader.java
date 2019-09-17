@@ -1,4 +1,4 @@
-package com.lxz.simple.thread;
+package com.lxz.core.thread;
 
 import org.apache.commons.io.FileUtils;
 

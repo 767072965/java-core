@@ -1,8 +1,8 @@
-package com.lxz.simple.date;
+package com.lxz.core.date;
 
 import java.util.Calendar;
 
-public class SimpleDate {
+public class DateUtil {
 
     /**
      * 获取今天开始时间
