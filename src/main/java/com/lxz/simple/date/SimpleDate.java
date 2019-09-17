@@ -1,17 +1,8 @@
-package com.lxz.simple;
+package com.lxz.simple.date;
 
 import java.util.Calendar;
 
-/**
- * Created by Administrator on 2019/9/16.
- * User: lizhen 767072965@qq.com
- * Date: 2019/9/16
- * Time: 9:53
- * Version: java-core 1.0.0.0
- * [功能描述]. 时间操作
- */
-public class DateSimple {
-
+public class SimpleDate {
 
     /**
      * 获取今天开始时间
@@ -38,6 +29,5 @@ public class DateSimple {
         todayEnd.set(Calendar.MILLISECOND, 999);
         return todayEnd.getTime().getTime();
     }
-
 
 }
